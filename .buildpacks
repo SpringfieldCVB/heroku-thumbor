@@ -1,2 +1,2 @@
 https://github.com/gesteves/heroku-buildpack-imagemagick-webp
-https://github.com/gesteves/heroku-buildpack-python-opencv
+https://github.com/diogojc/heroku-buildpack-python-opencv-scipy#cedar14
